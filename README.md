@@ -15,13 +15,3 @@ A simple task manager built in Python.
 ```bash
 python src/main.py
 
----
-
-# 📄 5. .gitignore (obrigatório)
-
-Crie o arquivo `.gitignore` e coloque:
-
-```bash
-__pycache__/
-*.pyc
-.env
